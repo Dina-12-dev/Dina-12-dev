@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Dina Atef
+- 👀 I’m interested in mobile app development, competitive programming. 
+- 🌱 I’m currently learning advanced Flutter techniques and solving Codeforces problems.
+- 💞️ I’m looking to collaborate on Flutter projects or any software development that enhances problem-solving skills.
+- 📫 How to reach me: You can reach me via email or through my GitHub.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I’m passionate about solving complex coding challenges and aim to join the A2SV program!
